@@ -1,4 +1,4 @@
-Munemo - flash card
+Mnemo - flash card
 
 This tool give some words or idioms from files
 
